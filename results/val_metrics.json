@@ -1,0 +1,81 @@
+{
+  "created": "2026-11-11T20:24:07",
+  "split": "validation",
+  "seed": 42,
+  "n_train": 74597,
+  "n_val": 15850,
+  "val_goal_rate": 0.10151419558359621,
+  "n_features": 37,
+  "features": [
+    "x",
+    "y",
+    "distance_to_goal",
+    "shot_angle_rad",
+    "under_pressure",
+    "first_time",
+    "one_on_one",
+    "aerial_won",
+    "open_goal",
+    "defenders_in_cone",
+    "gk_in_cone",
+    "closest_defender_dist",
+    "gk_distance_to_goal",
+    "body_part_Head",
+    "body_part_Left Foot",
+    "body_part_Other",
+    "body_part_Right Foot",
+    "technique_Backheel",
+    "technique_Diving Header",
+    "technique_Half Volley",
+    "technique_Lob",
+    "technique_Normal",
+    "technique_Overhead Kick",
+    "technique_Volley",
+    "play_pattern_From Corner",
+    "play_pattern_From Counter",
+    "play_pattern_From Free Kick",
+    "play_pattern_From Goal Kick",
+    "play_pattern_From Keeper",
+    "play_pattern_From Kick Off",
+    "play_pattern_From Throw In",
+    "play_pattern_Other",
+    "play_pattern_Regular Play",
+    "shot_type_Corner",
+    "shot_type_Free Kick",
+    "shot_type_Kick Off",
+    "shot_type_Open Play"
+  ],
+  "mlp_settings": {
+    "hidden_layers": [
+      64,
+      32
+    ],
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "max_epochs": 50,
+    "patience": 7,
+    "best_epoch": 6
+  },
+  "metrics": {
+    "Constant (base rate)": {
+      "Log Loss": 0.32839980733531676,
+      "Brier Score": 0.09120951916928656,
+      "ROC-AUC": 0.5
+    },
+    "Logistic Regression": {
+      "Log Loss": 0.26482781767845154,
+      "Brier Score": 0.07600261270999908,
+      "ROC-AUC": 0.8092074900467051
+    },
+    "MLP": {
+      "Log Loss": 0.2622119188308716,
+      "Brier Score": 0.0753578394651413,
+      "ROC-AUC": 0.8120088188023541
+    },
+    "StatsBomb xG (reference)": {
+      "Log Loss": 0.2637975285266642,
+      "Brier Score": 0.07490452570213244,
+      "ROC-AUC": 0.8089244506218073
+    }
+  }
+}
