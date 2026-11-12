@@ -1,2 +1,16 @@
 open-data-master
 ontarget_shots_cleaned.parquet
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+
+# Any other data files
+*.parquet
+*.csv
