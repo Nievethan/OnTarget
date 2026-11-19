@@ -1,0 +1,242 @@
+[
+  {
+    "model":"Logistic Regression",
+    "seed":0,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"MLP",
+    "seed":0,
+    "Log Loss":0.2620685995,
+    "Brier Score":0.0753282011,
+    "ROC-AUC":0.8117989886,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":1,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"MLP",
+    "seed":1,
+    "Log Loss":0.262170434,
+    "Brier Score":0.0752393007,
+    "ROC-AUC":0.8111234341,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":2,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"MLP",
+    "seed":2,
+    "Log Loss":0.2618812919,
+    "Brier Score":0.0753720626,
+    "ROC-AUC":0.812722189,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":3,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"MLP",
+    "seed":3,
+    "Log Loss":0.2618618906,
+    "Brier Score":0.0751878992,
+    "ROC-AUC":0.8118865997,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":4,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"MLP",
+    "seed":4,
+    "Log Loss":0.2624754906,
+    "Brier Score":0.075511463,
+    "ROC-AUC":0.8111928684,
+    "variant":"Full (all features)"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":0,
+    "Log Loss":0.2673535347,
+    "Brier Score":0.0765748397,
+    "ROC-AUC":0.8035675187,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"MLP",
+    "seed":0,
+    "Log Loss":0.2641710043,
+    "Brier Score":0.0759531483,
+    "ROC-AUC":0.8078500748,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":1,
+    "Log Loss":0.2673535347,
+    "Brier Score":0.0765748397,
+    "ROC-AUC":0.8035675187,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"MLP",
+    "seed":1,
+    "Log Loss":0.2644545436,
+    "Brier Score":0.0758171231,
+    "ROC-AUC":0.8071422034,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":2,
+    "Log Loss":0.2673535347,
+    "Brier Score":0.0765748397,
+    "ROC-AUC":0.8035675187,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"MLP",
+    "seed":2,
+    "Log Loss":0.2638892531,
+    "Brier Score":0.0758741647,
+    "ROC-AUC":0.8079832043,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":3,
+    "Log Loss":0.2673535347,
+    "Brier Score":0.0765748397,
+    "ROC-AUC":0.8035675187,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"MLP",
+    "seed":3,
+    "Log Loss":0.2642149031,
+    "Brier Score":0.0759360492,
+    "ROC-AUC":0.8076118556,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":4,
+    "Log Loss":0.2673535347,
+    "Brier Score":0.0765748397,
+    "ROC-AUC":0.8035675187,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"MLP",
+    "seed":4,
+    "Log Loss":0.2647153437,
+    "Brier Score":0.076126121,
+    "ROC-AUC":0.8071941373,
+    "variant":"A: no defenders_in_cone"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":0,
+    "Log Loss":0.2729099989,
+    "Brier Score":0.0781706497,
+    "ROC-AUC":0.7931382873,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"MLP",
+    "seed":0,
+    "Log Loss":0.2703260481,
+    "Brier Score":0.0776406229,
+    "ROC-AUC":0.7950966949,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":1,
+    "Log Loss":0.2729099989,
+    "Brier Score":0.0781706497,
+    "ROC-AUC":0.7931382873,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"MLP",
+    "seed":1,
+    "Log Loss":0.270583272,
+    "Brier Score":0.0777519122,
+    "ROC-AUC":0.7945180254,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":2,
+    "Log Loss":0.2729099989,
+    "Brier Score":0.0781706497,
+    "ROC-AUC":0.7931382873,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"MLP",
+    "seed":2,
+    "Log Loss":0.270529896,
+    "Brier Score":0.0777198672,
+    "ROC-AUC":0.7949760906,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":3,
+    "Log Loss":0.2729099989,
+    "Brier Score":0.0781706497,
+    "ROC-AUC":0.7931382873,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"MLP",
+    "seed":3,
+    "Log Loss":0.2704586983,
+    "Brier Score":0.0776554048,
+    "ROC-AUC":0.7948777,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":4,
+    "Log Loss":0.2729099989,
+    "Brier Score":0.0781706497,
+    "ROC-AUC":0.7931382873,
+    "variant":"B: no freeze-frame features"
+  },
+  {
+    "model":"MLP",
+    "seed":4,
+    "Log Loss":0.2708794475,
+    "Brier Score":0.07775148,
+    "ROC-AUC":0.7945537681,
+    "variant":"B: no freeze-frame features"
+  }
+]

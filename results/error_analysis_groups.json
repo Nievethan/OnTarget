@@ -1,0 +1,176 @@
+{
+  "body_part": [
+    {
+      "body_part": "Head",
+      "shots": 2563,
+      "actual_goal_rate": 0.11236831837690207,
+      "mean_mlp_prob": 0.10771869122982025,
+      "calibration_gap": -0.004649627147081822,
+      "mean_statsbomb_xg": 0.1144748347399532,
+      "mlp_auc": 0.7748572954822955
+    },
+    {
+      "body_part": "Left Foot",
+      "shots": 4954,
+      "actual_goal_rate": 0.10012111425111021,
+      "mean_mlp_prob": 0.10106366872787476,
+      "calibration_gap": 0.0009425544767645427,
+      "mean_statsbomb_xg": 0.0939746733120105,
+      "mlp_auc": 0.8117063018278123
+    },
+    {
+      "body_part": "Other",
+      "shots": 53,
+      "actual_goal_rate": 0.2641509433962264,
+      "mean_mlp_prob": 0.31951552629470825,
+      "calibration_gap": 0.05536458289848184,
+      "mean_statsbomb_xg": 0.27378045267924533,
+      "mlp_auc": 0.8443223443223443
+    },
+    {
+      "body_part": "Right Foot",
+      "shots": 8280,
+      "actual_goal_rate": 0.09794685990338164,
+      "mean_mlp_prob": 0.0976928174495697,
+      "calibration_gap": -0.00025404245381194235,
+      "mean_statsbomb_xg": 0.09024472518943237,
+      "mlp_auc": 0.8215681124397614
+    }
+  ],
+  "shot_type": [
+    {
+      "shot_type": "Corner",
+      "shots": 7,
+      "actual_goal_rate": 0.5714285714285714,
+      "mean_mlp_prob": 0.4997529983520508,
+      "calibration_gap": -0.07167557307652062,
+      "mean_statsbomb_xg": 0.00018,
+      "mlp_auc": 0.0
+    },
+    {
+      "shot_type": "Free Kick",
+      "shots": 699,
+      "actual_goal_rate": 0.06437768240343347,
+      "mean_mlp_prob": 0.07472807914018631,
+      "calibration_gap": 0.010350396736752837,
+      "mean_statsbomb_xg": 0.04066001759084407,
+      "mlp_auc": 0.5864763846415223
+    },
+    {
+      "shot_type": "Open Play",
+      "shots": 15144,
+      "actual_goal_rate": 0.10301109350237718,
+      "mean_mlp_prob": 0.10214276611804962,
+      "calibration_gap": -0.000868327384327558,
+      "mean_statsbomb_xg": 0.09853827319669177,
+      "mlp_auc": 0.8165513113089305
+    }
+  ],
+  "open_goal": [
+    {
+      "open_goal": "0",
+      "shots": 15676,
+      "actual_goal_rate": 0.09453942332227609,
+      "mean_mlp_prob": 0.09384952485561371,
+      "calibration_gap": -0.0006898984666623836,
+      "mean_statsbomb_xg": 0.08971325480407628,
+      "mlp_auc": 0.7989549622476433
+    },
+    {
+      "open_goal": "1",
+      "shots": 174,
+      "actual_goal_rate": 0.7298850574712644,
+      "mean_mlp_prob": 0.7551613450050354,
+      "calibration_gap": 0.02527628753377098,
+      "mean_statsbomb_xg": 0.6571335590689654,
+      "mlp_auc": 0.7803652203049087
+    }
+  ],
+  "one_on_one": [
+    {
+      "one_on_one": "0",
+      "shots": 15042,
+      "actual_goal_rate": 0.09380401542348092,
+      "mean_mlp_prob": 0.09256500750780106,
+      "calibration_gap": -0.0012390079156798656,
+      "mean_statsbomb_xg": 0.0893523400887648,
+      "mlp_auc": 0.8090683256746709
+    },
+    {
+      "one_on_one": "1",
+      "shots": 808,
+      "actual_goal_rate": 0.24504950495049505,
+      "mean_mlp_prob": 0.26017388701438904,
+      "calibration_gap": 0.015124382063893993,
+      "mean_statsbomb_xg": 0.21862416085581682,
+      "mlp_auc": 0.7361897665176353
+    }
+  ],
+  "under_pressure": [
+    {
+      "under_pressure": "0",
+      "shots": 11911,
+      "actual_goal_rate": 0.1043573167660146,
+      "mean_mlp_prob": 0.10638955235481262,
+      "calibration_gap": 0.0020322355887980176,
+      "mean_statsbomb_xg": 0.09765669032737806,
+      "mlp_auc": 0.8184681611097888
+    },
+    {
+      "under_pressure": "1",
+      "shots": 3939,
+      "actual_goal_rate": 0.09291698400609291,
+      "mean_mlp_prob": 0.08514273911714554,
+      "calibration_gap": -0.007774244888947374,
+      "mean_statsbomb_xg": 0.09075841155046967,
+      "mlp_auc": 0.7899810968419797
+    }
+  ],
+  "distance_band": [
+    {
+      "distance_band": "0-6",
+      "shots": 501,
+      "actual_goal_rate": 0.4171656686626746,
+      "mean_mlp_prob": 0.44354692101478577,
+      "calibration_gap": 0.02638125235211114,
+      "mean_statsbomb_xg": 0.401612004015968,
+      "mlp_auc": 0.7563577374319984
+    },
+    {
+      "distance_band": "6-12",
+      "shots": 3409,
+      "actual_goal_rate": 0.17835142270460547,
+      "mean_mlp_prob": 0.17700539529323578,
+      "calibration_gap": -0.001346027411369688,
+      "mean_statsbomb_xg": 0.16848685908052213,
+      "mlp_auc": 0.744983288393243
+    },
+    {
+      "distance_band": "12-18",
+      "shots": 3747,
+      "actual_goal_rate": 0.12356551908193221,
+      "mean_mlp_prob": 0.11652092635631561,
+      "calibration_gap": -0.007044592725616597,
+      "mean_statsbomb_xg": 0.11493821390619162,
+      "mlp_auc": 0.7487701349300095
+    },
+    {
+      "distance_band": "18-25",
+      "shots": 4068,
+      "actual_goal_rate": 0.05703048180924287,
+      "mean_mlp_prob": 0.05579729750752449,
+      "calibration_gap": -0.0012331843017183777,
+      "mean_statsbomb_xg": 0.05485383183549656,
+      "mlp_auc": 0.709431519902197
+    },
+    {
+      "distance_band": "25+",
+      "shots": 4125,
+      "actual_goal_rate": 0.023515151515151517,
+      "mean_mlp_prob": 0.027483053505420685,
+      "calibration_gap": 0.003967901990269168,
+      "mean_statsbomb_xg": 0.022130431407490908,
+      "mlp_auc": 0.7186549821353618
+    }
+  ]
+}

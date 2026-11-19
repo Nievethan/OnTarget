@@ -1,0 +1,82 @@
+[
+  {
+    "model":"Logistic Regression",
+    "seed":0,
+    "best_epoch":null,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749
+  },
+  {
+    "model":"MLP",
+    "seed":0,
+    "best_epoch":8.0,
+    "Log Loss":0.2620685995,
+    "Brier Score":0.0753282011,
+    "ROC-AUC":0.8117989886
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":1,
+    "best_epoch":null,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749
+  },
+  {
+    "model":"MLP",
+    "seed":1,
+    "best_epoch":11.0,
+    "Log Loss":0.262170434,
+    "Brier Score":0.0752393007,
+    "ROC-AUC":0.8111234341
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":2,
+    "best_epoch":null,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749
+  },
+  {
+    "model":"MLP",
+    "seed":2,
+    "best_epoch":8.0,
+    "Log Loss":0.2618812919,
+    "Brier Score":0.0753720626,
+    "ROC-AUC":0.812722189
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":3,
+    "best_epoch":null,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749
+  },
+  {
+    "model":"MLP",
+    "seed":3,
+    "best_epoch":8.0,
+    "Log Loss":0.2618618906,
+    "Brier Score":0.0751878992,
+    "ROC-AUC":0.8118865997
+  },
+  {
+    "model":"Logistic Regression",
+    "seed":4,
+    "best_epoch":null,
+    "Log Loss":0.2648278177,
+    "Brier Score":0.0760026127,
+    "ROC-AUC":0.80920749
+  },
+  {
+    "model":"MLP",
+    "seed":4,
+    "best_epoch":7.0,
+    "Log Loss":0.2624754906,
+    "Brier Score":0.075511463,
+    "ROC-AUC":0.8111928684
+  }
+]
