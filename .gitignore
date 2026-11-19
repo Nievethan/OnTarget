@@ -3,14 +3,27 @@ ontarget_shots_cleaned.parquet
 
 # Python environment
 .venv/
+venv/
 __pycache__/
 *.pyc
+
+# Jupyter / Colab junk
 .ipynb_checkpoints/
 
-# Model weights
+# Data — never commit (guidelines rule). Document how to download it instead.
+data/
+*.json.gz
+
+# Model weights — too big to commit
 *.pt
 *.pth
+*.ckpt
 
-# Any other data files
-*.parquet
-*.csv
+# Secrets
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
