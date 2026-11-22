@@ -17,8 +17,6 @@ This document summarizes each member's contributions to the OnTarget project, in
 | Gitae Yang | Project concept, MLP architecture planning, training methodology, and evaluation strategy. |
 | Arno Nazarian | Baseline comparison planning, evaluation methodology, and controlled experiment design. |
 
-*Exact proposal-writing responsibilities to be confirmed by the team.*
-
 ---
 
 ## Milestone 2 — Technical Checkpoint (November 20, 2026)
